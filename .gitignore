@@ -1,0 +1,16 @@
+# Ignore Visual Studio temporary files, build results, and
+# Include directory-based project format
+.vs/
+*.vscode
+*.user
+*.userosscache
+*.suo
+*.cache
+*.pdb
+*.obj
+*.exe
+*.dll
+*.log
+*.tmp
+bin/
+obj/
